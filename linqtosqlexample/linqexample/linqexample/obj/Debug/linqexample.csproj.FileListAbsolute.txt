@@ -1,0 +1,6 @@
+C:\Users\bjarke\Desktop\testblah\linqexample\linqexample\bin\Debug\linqexample.exe.config
+C:\Users\bjarke\Desktop\testblah\linqexample\linqexample\bin\Debug\linqexample.exe
+C:\Users\bjarke\Desktop\testblah\linqexample\linqexample\bin\Debug\linqexample.pdb
+C:\Users\bjarke\Desktop\testblah\linqexample\linqexample\obj\Debug\linqexample.csprojResolveAssemblyReference.cache
+C:\Users\bjarke\Desktop\testblah\linqexample\linqexample\obj\Debug\linqexample.exe
+C:\Users\bjarke\Desktop\testblah\linqexample\linqexample\obj\Debug\linqexample.pdb
